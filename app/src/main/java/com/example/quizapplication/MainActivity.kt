@@ -1,4 +1,4 @@
-/* Quiz Application
+/* GeoQuiz
 * Brigitte Smith
 * This app tests the user’s knowledge of geography using True of False questions.
 * 1/22/25
